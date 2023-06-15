@@ -1,0 +1,4 @@
+# weather-in-my-city-
+>weather application made with react and open weather api . 
+>able to fetch the weather of any city at current time .
+>you can see preview here https://648ae8bdf7552a032614752b--grand-gingersnap-4005c7.netlify.app/
